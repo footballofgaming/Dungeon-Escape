@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Knife
+comment0.text=\r\n\ This\ was\ originally\ supposed\ to\ be\ a\ knife\ but\ then\ was\ changed\ to\ be\ a\ mine\ that\ explodes\ on\ impact.\r\n\ \r\n\ @authors\ Rayhan,\ Aruyan,\ Ibrahim\r\n\ @version\ 2023/01/22\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Knife\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

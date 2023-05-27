@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EnemiesLvlTwo
+comment0.text=\n\ The\ enemy\ that\ appears\ in\ level\ two\ aka\ the\ boss\ enemy.\n\ \n\ @authors\ Rayhan,\ Aruyan,\ Ibrahim\n\ @version\ 2023/01/22\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ hitEdge()
+comment3.params=
+comment3.target=void\ collisionDetection()
+comment3.text=public\ void\ bounceEdge()\ {\n\ \ \ \ \ \ \ \ String\ edge\ \=\ hitEdge();\n\ \ \ \ \ \ \ \ if(edge.equals("top")\ ||\ edge.equals("bottom"))\ {\n\ \ \ \ \ \ \ \ \ \ \ \ ySpeed\ \=\ ySpeed\ *\ -1;\n\ \ \ \ \ \ \ \ \ \ \ \ xSpeed\ \=\ xSpeed\ *\ -1;\n\ \ \ \ \ \ \ \ }\ else\ if\ (edge.equals("left")\ ||\ edge.equals("right"))\ {\n\ \ \ \ \ \ \ \ \ \ \ \ xSpeed\ \=\ xSpeed\ *\ -1;\n\ \ \ \ \ \ \ \ }\n}
+numComments=4

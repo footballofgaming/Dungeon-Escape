@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemiesLvlOne
+comment0.text=\n\ The\ enemy\ that\ appears\ in\ level\ one.\n\ \n\ @authors\ Rayhan,\ Aruyan,\ Ibrahim\n\ @version\ 2023/01/22\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ EnemiesLvlOne\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ frontAnimation()
+comment3.params=
+comment3.target=void\ backAnimation()
+comment4.params=
+comment4.target=void\ collisionDetection()
+numComments=5
